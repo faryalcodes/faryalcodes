@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**faryalcodes/faryalcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Faryal.
 
-Here are some ideas to get you started:
+I'm currently learning Web Development and building my skills with HTML, CSS, JavaScript, and Git. This GitHub is where I share my projects, document my learning journey, and grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+### Goals
+
+* Build real-world web projects
+* Learn React
+* Become a skilled software developer
+
